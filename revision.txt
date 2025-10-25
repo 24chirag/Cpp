@@ -1,0 +1,38 @@
+encapsulation ->the process of grouping together the properties and method in a single unit is called encapsulation
+how to achive encapsulation->by using class and structure(very less people know )
+->the member of structure is public 
+->the member of class is private 
+
+->encapsulation is nothing just data hiding + abstraction(implementation doesnt show to user)
+
+WHAT IS DATA HIDING ?
+using access specifers we are restricting the data outside the class cant be accessed directly.
+HIDING THE DATA BEHIND METHODS ->PROCESS KNOW AS DATA HIDING 
+
+WHAT IS ABSTRACTION->hiding implementation details which is not needed 
+WHAT IS INLINE FUNCTION->using keyword inline programmer give responsibility to compilier that function need to be expand or not ->purpose of inline function is OPTIMISATION
+
+WHAT IS DEFAULT ARGUMENT-> in general if we declare a function with 2 parameter then it is not possible to call function with greater than 2 or less 2 parameters
+for running 2 para + 3 para we used default argument
+ALL DEFAULT ARGUMENT SHOULD BE RIGHT ALIGNED IN A FUNCTION SIGNATURE.
+
+WHAT IS FUNCTION OVERLOADING ?
+SIGNATURE IS DIFFERENT ->FUNCTION IS DIFFERENT ->RETURN TYPE IS NOT ADDED IN SIGNATURE
+
+WHAT IS OVERLOAD RESOLUTION?
+AT COMPILE TIME WHEN FUNCTION CALL IS MADE TOO SO MANY OVERLOADED FUNCTION ...SO DETERMINE WHICH FUNCTION CALL IS INVOKED IS OVERLOAD RESOLUTION
+
+HOW OVERLOAD RESOLUTION DONE?
+->FIRST EXACT MATCH 
+->TYPE PROMOTION->CHARACTER PROMOTED TO INTEGER AND FLOAT TO DOUBLE
+->TYPE CONVERSION
+
+
+CLASS AND OBJECT 
+CLASS IS AN DISCRIPTION OF AN OBJECT 
+NO MEMORY SHOULD BE ALLOCATED 
+CLASS IS A KEYWORD 
+CLASS IS A BLUEPRINT
+HOW OBJECT LOOKS ALIKE DECIDE IN CLASS 
+
+OBJECT IS A PHSICAL EXSITENCE OF CLASS 
